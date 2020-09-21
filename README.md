@@ -1,1 +1,1 @@
-# LearnNode-WesBox
+# Wes Bos Course: Learn Node
